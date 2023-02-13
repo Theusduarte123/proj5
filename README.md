@@ -1,7 +1,7 @@
-# projeto-individual-modulo-05
-Projeto individual de conclusão do módulo 05 (Tecnologias server-side/back-end) da iniciativa Programadores Cariocas.
+ projeto-individual-modulo-05
 
-Como rodar o programa?
+
+Como executar  o programa?
 
 1. **npm install** para baixar as dependências. <br/>
 2.  **node index.js** para rodar o programa.
